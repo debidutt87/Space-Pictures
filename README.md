@@ -9,12 +9,9 @@ This is an app that displays pictures from the NASA APOD API. It pulls their lis
 
 ## Screenshots
 <p align="center">
-  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-28%20at%2001.15.15.png" height="500" widht="500"/>
-  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-28%20at%2001.15.15.png" height="500" widht="500"/>
-  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-28%20at%2001.15.15.png" height="500" widht="500"/>
-  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-28%20at%2001.15.15.png" height="500" widht="500"/>
-  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-28%20at%2001.15.15.png" height="500" widht="500"/>
-  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-28%20at%2001.15.15.png" height="500" widht="500"/>
+  <img src="./screenshots/app icon screen.png" height="500" widht="500"/>
+  <img src="./screenshots/Space Pictures Screen.png" height="500" widht="500"/>
+  <img src="./screenshots/Space Pictures Detail.png" height="500" widht="500"/> 
 </p>
 
 ## Installation
