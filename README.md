@@ -9,7 +9,7 @@ This is an app that displays pictures from the NASA APOD API. It pulls their lis
 
 ## Screenshots
 <p align="center">
-  <img src="./screenshots/app icon screen.png" height="500" widht="500"/>
+  <img src="./screenshots/App icon screen.png" height="500" widht="500"/>
   <img src="./screenshots/Space Pictures Screen.png" height="500" widht="500"/>
   <img src="./screenshots/Space Pictures Detail.png" height="500" widht="500"/> 
 </p>
