@@ -1,21 +1,43 @@
 # Space Pictures
+
+[![Swift Version](https://img.shields.io/badge/Swift-4.2-success.svg)](https://swift.org)
+[![Xcode Version](https://img.shields.io/badge/Xcode-11-success.svg)](https://swift.org)
+[![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](https://swift.org)
+
+## Project Overview
 This is an app that displays pictures from the NASA APOD API. It pulls their listing, allows you to submit your own pictures and stores all the data using Core Data. Note, that videos are not shown.
+
+## Screenshots
+<p align="center">
+  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-28%20at%2001.15.15.png" height="500" widht="500"/>
+  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-28%20at%2001.15.15.png" height="500" widht="500"/>
+  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-28%20at%2001.15.15.png" height="500" widht="500"/>
+  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-28%20at%2001.15.15.png" height="500" widht="500"/>
+  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-28%20at%2001.15.15.png" height="500" widht="500"/>
+  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-28%20at%2001.15.15.png" height="500" widht="500"/>
+</p>
 
 ## Installation
 
 To install this app:
 
-1. Ensure you have cocoapods installed using:
+1. Download and unzip ```Space Pictures.zip```. 
+or
+use the following command on your terminal ```git clone https://github.com/debidutt87/Space-Pictures.git```
+
+2. Ensure you have cocoapods installed using:
 
         sudo gem install cocoapods
-2. Install pods with:
+        
+3. Install pods with:
 
         pod install
-3. Open the app in XCode from the generated `Space Pictures.xcworkspace` and run
+
+4. Open the app in XCode from the generated `Space Pictures.xcworkspace` and run
 
 *Note: For mail submission to work, you must have installed the app on a real device, not using simulator*
 
-## User Experience
+## How to use this app
 The app is composed of three main screens:
 
 ### 1. Space Pictures
