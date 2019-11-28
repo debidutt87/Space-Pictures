@@ -25,4 +25,4 @@ Space Picture screen occurs on load and is a UICollectionView of the pictures fr
 This screen is pushed onto the navigation controller when any cell in the space pictures screen is tapped. It shows extra details of the tapped picture returned from the APOD API.
 
 ### 3. APOD Submission (Mail Composer)
-This is presented after pressing the APOD Submission button the top right of the Space Pictures Screen. This is an email submission where users can add their own space pictures to submit to NASA.
+This is presented after pressing the APOD Submission button the top right of the Space Pictures Screen. This is an email submission where users can add their own space pictures to submit to NASA.# Space-Pictures
